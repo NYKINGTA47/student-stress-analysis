@@ -1,32 +1,96 @@
-# Student Stress Analysis
+# Student Stress Analysis Dashboard
 
 ## Project Overview
 
-This project investigates factors that influence stress among college students.
+This project analyzes student stress levels and their relationship with mental health and academic performance. Using Power BI, I created interactive dashboards to identify trends between stress, anxiety, depression, sleep quality, and academic achievement.
 
 ## Research Question
 
-How do sleep hours, study hours, social media usage, and academic workload affect student stress levels?
+How do stress levels affect anxiety, depression, sleep quality, and academic performance among students?
 
-## Skills Used
+## Dashboard Insights
 
-- Psychology Research Methods
-- Excel
+- Students with higher stress levels report higher anxiety levels.
+- Students with higher stress levels report higher depression levels.
+- Sleep quality decreases as stress levels increase.
+- Academic performance decreases as stress levels increase.
+
+## Dashboard Preview
+
+### Student Mental Health Dashboard
+
+![Student Mental Health Dashboard](dashboard_page1.png)
+
+### Academic Performance Dashboard
+
+![Academic Performance Dashboard](dashboard_page2.png)
+
+## Tools Used
+
+- Power BI
 - SQL
+- Excel
 - Data Cleaning
 - Data Visualization
-- Power BI
+- Exploratory Data Analysis (EDA)
+
+## Dashboard Pages
+
+### Page 1: Student Mental Health Dashboard
+
+Visualizations:
+- Student Stress Level Distribution
+- Average Anxiety Level by Stress Level
+- Average Sleep Quality by Stress Level
+- Average Depression Level by Stress Level
+
+### Page 2: Academic Performance Dashboard
+
+Visualizations:
+- Average Academic Performance by Stress Level
+
+## Key Findings
+
+| Metric | Relationship with Stress |
+|----------|------------------------|
+| Anxiety | Increases |
+| Depression | Increases |
+| Sleep Quality | Decreases |
+| Academic Performance | Decreases |
+
+## Skills Demonstrated
+
+- Research Design
+- Data Analysis
+- Data Visualization
+- Dashboard Development
+- Psychological Data Interpretation
+- Business Analytics Fundamentals
 
 ## Project Structure
 
-- data/ - datasets
-- sql/ - SQL queries
-- dashboard/ - visualizations
-- report/ - final report
+student-stress-analysis/
 
-## Goals
+├── dashboard/
 
-- Build a research portfolio
-- Develop analytics skills
-- Prepare for Research Assistant positions
-- Prepare for MS Business Analytics (MSBA)
+├── data/
+
+├── report/
+
+├── sql/
+
+└── README.md
+
+## Career Relevance
+
+This project demonstrates skills relevant to:
+
+- Research Assistant positions
+- Psychology Research
+- Business Analytics
+- MS Business Analytics (MSBA) programs
+- Data Analyst internships
+
+## Author
+
+Tahmid Adib
