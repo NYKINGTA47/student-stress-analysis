@@ -4,6 +4,15 @@
 
 This project analyzes student stress levels and their relationship with mental health and academic performance. Using Power BI, I created interactive dashboards to identify trends between stress, anxiety, depression, sleep quality, and academic achievement.
 
+## Dataset Source
+
+- Platform: Kaggle
+- Dataset: Student Stress Monitoring Datasets
+- Author: Md Sultanul Islam Ovi
+- Link: https://www.kaggle.com/datasets/mdsultanulislamovi/student-stress-monitoring-datasets
+
+This dataset includes 843 student survey responses covering anxiety, depression, sleep quality, academic performance, social support, study load, and other stress-related factors. :contentReference[oaicite:1]{index=1}
+
 ## Research Question
 
 How do stress levels affect anxiety, depression, sleep quality, and academic performance among students?
@@ -15,15 +24,22 @@ How do stress levels affect anxiety, depression, sleep quality, and academic per
 - Sleep quality decreases as stress levels increase.
 - Academic performance decreases as stress levels increase.
 
+## Key Findings
+
+- Students with higher stress levels reported higher anxiety levels.
+- Depression increased as stress levels increased.
+- Sleep quality decreased with higher stress levels.
+- Academic performance declined as stress levels increased.
+
 ## Dashboard Preview
 
 ### Student Mental Health Dashboard
 
-![Student Mental Health Dashboard](dashboard_page1.png)
+![Student Mental Health Dashboard](dashboard/dashboard_page1.png)
 
 ### Academic Performance Dashboard
 
-![Academic Performance Dashboard](dashboard_page2.png)
+![Academic Performance Dashboard](dashboard/dashboard_page2.png)
 
 ## Tools Used
 
